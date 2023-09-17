@@ -25,31 +25,31 @@ January,01/30/2019,04:23:00,02/02/2019,09:00:00,Illinois,SERC,Fuel Supply Defici
 January,01/30/2019,09:30:00,01/31/2019,18:00:00,Michigan,RF,Severe Weather,Unknown,Unknown,2019
 January,01/30/2019,07:00:00,01/30/2019,08:08:00,Illinois,SERC,Severe Weather,Unknown,Unknown,2019
 January,01/31/2019,21:33:00,01/31/2019,21:34:00,California,WECC,Vandalism,0,0,2019
-February,02/01/2019,23:57:00,02/02/2019,08:49:00,,WECC,Vandalism,Unknown,1,2019
-February,02/01/2019,05:35:00,02/01/2019,06:10:00,,NPCC,System Operations,0,0,2019
-February,02/02/2019,10:28:00,02/02/2019,10:29:00,,WECC,Vandalism,0,0,2019
-February,02/05/2019,18:17:00,02/05/2019,20:26:00,,WECC,Severe Weather,42,33200,2019
-February,02/07/2019,07:39:00,02/07/2019,07:40:00,,SERC,Severe Weather/Transmission Interruption,3,3370,2019
-February,02/07/2019,08:55:00,02/09/2019,16:30:00,,RF,Severe Weather,Unknown,233000,2019
-February,02/08/2019,10:00:00,02/08/2019,10:30:00,,RF,Vandalism,0,0,2019
-February,02/08/2019,18:30:00,Unknown,Unknown,,WECC,Severe Weather,Unknown,50940,2019
-February,02/13/2019,02:48:00,02/15/2019,00:28:00,,WECC,Severe Weather,182,121000,2019
-February,02/14/2019,08:50:00,02/14/2019,12:10:00,,RF,Vandalism,0,0,2019
-February,02/14/2019,12:15:00,02/14/2019,12:16:00,,WECC,Vandalism,0,0,2019
-February,02/19/2019,09:45:00,Unknown,Unknown,,TRE,Vandalism,0,0,2019
-February,02/20/2019,12:50:00,02/20/2019,13:32:00,,MRO,System Operations,740,0,2019
-February,02/23/2019,14:05:00,Unknown,Unknown,,SERC,Severe Weather/Transmission Interruption,Unknown,Unknown,2019
-February,02/24/2019,18:00:00,02/25/2019,22:00:00,,RF,Severe Weather,Unknown,132000,2019
-February,02/24/2019,11:21:00,02/26/2019,17:29:00,,RF,Severe Weather,Unknown,118781,2019
-February,02/24/2019,18:47:00,02/25/2019,13:55:00,,RF,Severe Weather,Unknown,137216,2019
-February,02/24/2019,12:31:00,02/24/2019,14:57:00,,RF,Severe Weather,Unknown,157274,2019
-February,02/24/2019,14:33:00,02/24/2019,18:03:00,,RF,Severe Weather,Unknown,94048,2019
-February,02/24/2019,20:02:00,02/25/2019,14:30:00,,RF,Severe Weather,Unknown,115000,2019
-February,02/25/2019,07:45:00,02/25/2019,18:40:00,,NPCC,Transmission Interruption,0,0,2019
-February,02/25/2019,13:35:00,02/26/2019,02:50:00,,NPCC,Severe Weather,Unknown,72332,2019
-February,02/27/2019,11:25:00,02/27/2019,17:39:00,,MRO,Transmission Interruption,0,0,2019
-February,02/27/2019,21:35:00,02/27/2019,21:45:00,,SERC,Suspicious Activity,0,0,2019
-February,02/28/2019,07:02:00,02/28/2019,07:33:00,,SPP RE,System Operations,0,0,2019
+February,02/01/2019,23:57:00,02/02/2019,08:49:00,Nevada,WECC,Vandalism,Unknown,1,2019
+February,02/01/2019,05:35:00,02/01/2019,06:10:00,Massachusetts,NPCC,System Operations,0,0,2019
+February,02/02/2019,10:28:00,02/02/2019,10:29:00,California,WECC,Vandalism,0,0,2019
+February,02/05/2019,18:17:00,02/05/2019,20:26:00,California,WECC,Severe Weather,42,33200,2019
+February,02/07/2019,07:39:00,02/07/2019,07:40:00,Arkansas,SERC,Severe Weather/Transmission Interruption,3,3370,2019
+February,02/07/2019,08:55:00,02/09/2019,16:30:00,Michigan,RF,Severe Weather,Unknown,233000,2019
+February,02/08/2019,10:00:00,02/08/2019,10:30:00,Pennsylvania,RF,Vandalism,0,0,2019
+February,02/08/2019,18:30:00,Unknown,Unknown,Washington,WECC,Severe Weather,Unknown,50940,2019
+February,02/13/2019,02:48:00,02/15/2019,00:28:00,California,WECC,Severe Weather,182,121000,2019
+February,02/14/2019,08:50:00,02/14/2019,12:10:00,New Jersey,RF,Vandalism,0,0,2019
+February,02/14/2019,12:15:00,02/14/2019,12:16:00,Utah,WECC,Vandalism,0,0,2019
+February,02/19/2019,09:45:00,Unknown,Unknown,Texas,TRE,Vandalism,0,0,2019
+February,02/20/2019,12:50:00,02/20/2019,13:32:00,"Wisconsin, Minnesota, Iowa, Illinois",MRO,System Operations,740,0,2019
+February,02/23/2019,14:05:00,Unknown,Unknown,Virginia,SERC,Severe Weather/Transmission Interruption,Unknown,Unknown,2019
+February,02/24/2019,18:00:00,02/25/2019,22:00:00,Pennsylvania,RF,Severe Weather,Unknown,132000,2019
+February,02/24/2019,11:21:00,02/26/2019,17:29:00,"Ohio, Virginia, West Virginia",RF,Severe Weather,Unknown,118781,2019
+February,02/24/2019,18:47:00,02/25/2019,13:55:00,Pennsylvania,RF,Severe Weather,Unknown,137216,2019
+February,02/24/2019,12:31:00,02/24/2019,14:57:00,Ohio,RF,Severe Weather,Unknown,157274,2019
+February,02/24/2019,14:33:00,02/24/2019,18:03:00,Pennsylvania,RF,Severe Weather,Unknown,94048,2019
+February,02/24/2019,20:02:00,02/25/2019,14:30:00,Michigan,RF,Severe Weather,Unknown,115000,2019
+February,02/25/2019,07:45:00,02/25/2019,18:40:00,Massachusetts,NPCC,Transmission Interruption,0,0,2019
+February,02/25/2019,13:35:00,02/26/2019,02:50:00,"Connecticut, Massachusetts, New Hampshire, Maine, Vermont, Rhode Island",NPCC,Severe Weather,Unknown,72332,2019
+February,02/27/2019,11:25:00,02/27/2019,17:39:00,Iowa,MRO,Transmission Interruption,0,0,2019
+February,02/27/2019,21:35:00,02/27/2019,21:45:00,South Carolina,SERC,Suspicious Activity,0,0,2019
+February,02/28/2019,07:02:00,02/28/2019,07:33:00,"Oklahoma, Arkansas, Louisiana",SPP RE,System Operations,0,0,2019
 March,03/04/2019,11:39:00,03/08/2019,16:52:00,Oklahoma,SPP RE,Vandalism,0,0,2019
 March,03/05/2019,09:12:00,03/05/2019,18:57:00,California,WECC,System Operations,0,0,2019
 March,03/13/2019,15:51:00,03/16/2019,18:00:00,Texas,TRE,Severe Weather/Transmission Interruption,50,54290,2019
@@ -312,7 +312,7 @@ February,02/12/2020,07:36:00,02/12/2020,08:53:00,Maine,NPCC,System Operations,0,
 February,02/13/2020,08:01:00,02/13/2020,14:38:00,Oregon,WECC,Vandalism,0,0,2020
 February,02/17/2020,09:47:00,02/17/2020,15:31:00,Alabama,SERC,Vandalism,97,Unknown,2020
 February,02/17/2020,13:18:00,02/20/2020,09:51:00,Michigan,RF,Vandalism,0,0,2020
-February,02/17/2020,04:00:00,Unknown,Unknown,,WECC,Severe Weather,91,70000,2020
+February,02/17/2020,04:00:00,Unknown,Unknown,Northern and Central California;,WECC,Severe Weather,91,70000,2020
 February,02/18/2020,13:00:00,02/18/2020,14:00:00,California,WECC,Vandalism,0,0,2020
 February,02/25/2020,11:45:00,02/25/2020,13:00:00,California,WECC,Vandalism,0,0,2020
 February,02/26/2020,16:30:00,02/26/2020,17:02:00,Oklahoma,SPP RE,System Operations,0,0,2020
@@ -321,7 +321,7 @@ February,02/26/2020,11:29:00,02/26/2020,12:14:00,Dakota,MRO,System Operations,0,
 February,02/29/2020,01:45:00,02/29/2020,02:30:00,Nevada,WECC,System Operations,0,0,2020
 March,03/01/2020,11:27:00,03/01/2020,21:47:00,Mississippi,SERC,Transmission Interruption,19,3136,2020
 March,03/01/2020,22:15:00,Unknown,Unknown,York,NPCC,Vandalism,0,0,2020
-March,03/01/2020,08:00:00,Unknown,Unknown,,NPCC,Fuel Supply Deficiency,675,Unknown,2020
+March,03/01/2020,08:00:00,Unknown,Unknown,Western NY,NPCC,Fuel Supply Deficiency,675,Unknown,2020
 March,03/02/2020,01:43:00,03/02/2020,02:43:00,Nevada,WECC,System Operations,0,0,2020
 March,03/03/2020,14:30:00,03/03/2020,14:31:00,Alabama,SERC,Vandalism,0,0,2020
 March,03/08/2020,22:10:00,03/09/2020,01:02:00,Texas,TRE,Suspicious Activity,0,0,2020
@@ -404,7 +404,7 @@ May,05/19/2020,08:17:00,05/19/2020,08:18:00,Idaho,WECC,Vandalism,0,0,2020
 May,05/19/2020,13:45:00,05/19/2020,13:46:00,Arkansas,SPP RE,Suspicious Activity,0,0,2020
 May,05/20/2020,11:41:00,Unknown,Unknown,Nevada,WECC,Vandalism,0,0,2020
 May,05/22/2020,16:35:00,05/23/2020,15:29:00,Carolina,SERC,Severe Weather,Unknown,108190,2020
-May,05/24/2020,16:45:00,Unknown,Unknown,,SPP RE,Severe Weather,Unknown,54000,2020
+May,05/24/2020,16:45:00,Unknown,Unknown,Central Oklahoma,SPP RE,Severe Weather,Unknown,54000,2020
 May,05/25/2020,10:58:00,05/25/2020,13:00:00,Texas,TRE,Transmission Interruption,8,3745,2020
 May,05/27/2020,17:15:00,05/29/2020,06:30:00,Texas,TRE,Severe Weather,Unknown,382000,2020
 May,05/27/2020,17:20:00,Unknown,Unknown,Texas,TRE,Severe Weather,Unknown,273269,2020
@@ -456,7 +456,7 @@ July,07/16/2020,08:49:00,07/16/2020,11:06:00,Dakota,MRO,System Operations,475,0,
 July,07/17/2020,23:00:00,07/17/2020,23:30:00,Oklahoma,SPP RE,Vandalism,0,0,2020
 July,07/17/2020,19:24:00,Unknown,Unknown,York,NPCC,Suspicious Activity,0,0,2020
 July,07/19/2020,14:30:00,07/21/2020,18:48:00,Michigan,RF,Severe Weather,Unknown,158500,2020
-July,07/19/2020,10:30:00,Unknown,Unknown,York,NPCC,Fuel Supply Deficiency,675,,2020
+July,07/19/2020,10:30:00,Unknown,Unknown,York,NPCC,Fuel Supply Deficiency,675,Unknown,2020
 July,07/20/2020,00:57:00,07/20/2020,02:34:00,Texas,TRE,Suspicious Activity,21,14096,2020
 July,07/21/2020,11:53:00,07/21/2020,13:00:00,Washington,WECC,Vandalism,19,11000,2020
 July,07/22/2020,11:30:00,07/22/2020,14:19:00,Virginia,RF,Transmission Interruption,0,0,2020
@@ -526,7 +526,7 @@ August,08/20/2020,00:03:00,08/20/2020,14:05:00,Maine,NPCC,System Operations,0,0,
 August,08/20/2020,09:17:00,08/20/2020,13:42:00,Mississippi,SERC,Vandalism,0,0,2020
 August,08/20/2020,15:29:00,08/20/2020,15:39:00,Nebraska,MRO,Transmission Interruption,60,Unknown,2020
 August,08/23/2020,22:12:00,08/23/2020,22:15:00,Virginia,RF,Suspicious Activity,0,0,2020
-August,08/23/2020,10:30:00,Unknown,Unknown,,TRE,Severe Weather,Unknown,Unknown,2020
+August,08/23/2020,10:30:00,Unknown,Unknown,"Texas panhandle, SE NM",TRE,Severe Weather,Unknown,Unknown,2020
 August,08/24/2020,23:00:00,08/24/2020,23:59:00,Texas,TRE,Potential Physical Attack,0,0,2020
 August,08/25/2020,02:43:00,08/25/2020,07:43:00,Colorado,WECC,Vandalism,0,0,2020
 August,08/27/2020,05:00:00,09/03/2020,12:00:00,Louisiana,SERC,Severe Weather,200,50000,2020
