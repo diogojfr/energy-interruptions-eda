@@ -6,7 +6,7 @@ The dataset analyzed in this repository is provided by the United States Departm
 
 The data includes information such as month, type of event that caused the electrical disturbance, and number of consumers affected.
 
-# What is a electric disturbance event?
+### What is a electric disturbance event?
 In a general way, an electrical disturbance event can be described as a term to categorize problems associated with power interruptions, ranging from a loss of electrical service for a short period of time to major blackouts.
 
 Various factors can cause power interruptions, including severe weather, human/vegetation interference near power lines, system operations, and even cyber attacks.
