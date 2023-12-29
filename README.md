@@ -38,7 +38,7 @@ For this analysis, it was used:
   ![output1](https://github.com/diogojfr/energy-interruptions-eda/assets/96347565/8511c023-fa72-46d7-a7a9-5fa2501e6665)
 
 # 
-<br>
+
 - In the last four years, summer season had more disturbance events in three years.
   
   ![newplot1](https://github.com/diogojfr/energy-interruptions-eda/assets/96347565/bfd43c92-ceca-4fb2-8c32-ad9273ab202e)
